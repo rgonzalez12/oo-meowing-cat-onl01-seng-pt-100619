@@ -6,8 +6,8 @@ class Cat
   #end
   
   #def name
-    @name
-  end
+    #@name
+  #end
   
   def meow
     puts "meow!"
