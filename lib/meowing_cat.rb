@@ -1,6 +1,6 @@
 ## code your solution here. 
 class Cat 
-  def name=(name)
+  def attr_accessor=(name)
     @name = name
   end
   
